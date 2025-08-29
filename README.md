@@ -117,7 +117,7 @@ Ou, se já tiver o **executável gerado (PyInstaller)**, basta rodar o `.exe` de
 
 | ![Senha Amil](https://github.com/user-attachments/assets/ab49a56a-75de-41a0-84c4-8d2489a8e07f) | ![Editar Amil](https://github.com/user-attachments/assets/ffe1f3c8-ee12-4d90-b9df-3c865a22c197) |
 |:--:|:--:|
-| Tela de Login | Tela de Edição |
+| Tela de Edição de senha | Tela de Edição das empresas |
 
 
 ---
