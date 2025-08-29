@@ -1,7 +1,7 @@
 <h1 align="center">SinistrAmil - Portal de Benefícios Automator</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/SEU_PRINT_AQUI" alt="sinistramil" />
+  <img width="900" height="449" alt="print_princial_amil" src="https://github.com/user-attachments/assets/88a8a1af-7cd8-4d5c-a6be-417142d90b46" alt="sinistramil" />
 </p>
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -18,7 +18,7 @@ O objetivo principal é automatizar o acesso ao **Portal de Benefícios da Amil*
 Durante a refatoração, foram realizadas diversas melhorias:
 
 - Código dividido em módulos para maior organização.
-- Criação de uma **tela gráfica** amigável (GUI).
+- Atualização da **tela gráfica** amigável (GUI).
 - Inclusão de **senha mestre** para segurança em alterações.
 - Adição de funções extras como:
   - Adicionar empresas e códigos.
@@ -116,7 +116,8 @@ Ou, se já tiver o **executável gerado (PyInstaller)**, basta rodar o `.exe` de
 ## 📸 Prints da Aplicação
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/SEU_PRINT_GUI_AQUI" alt="tela-principal" width="600"/>
+  <img width="540" height="432" alt="print_senha_amil" src="https://github.com/user-attachments/assets/ab49a56a-75de-41a0-84c4-8d2489a8e07f" />
+  <img width="405" height="432" alt="print_editar_amil" src="https://github.com/user-attachments/assets/a83b2626-4ed4-42f6-8027-f17485aaff69" />
 </p>
 
 ---
