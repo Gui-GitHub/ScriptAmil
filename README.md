@@ -117,7 +117,7 @@ Ou, se já tiver o **executável gerado (PyInstaller)**, basta rodar o `.exe` de
 
 <p align="center">
   <img width="540" height="432" alt="print_senha_amil" src="https://github.com/user-attachments/assets/ab49a56a-75de-41a0-84c4-8d2489a8e07f" />
-  <img width="405" height="432" alt="print_editar_amil" src="https://github.com/user-attachments/assets/a83b2626-4ed4-42f6-8027-f17485aaff69" />
+  <img width="358" height="432" alt="print_editar_amil" src="https://github.com/user-attachments/assets/ffe1f3c8-ee12-4d90-b9df-3c865a22c197" />
 </p>
 
 ---
