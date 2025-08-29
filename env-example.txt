@@ -1,0 +1,5 @@
+SENHA_MESTRA = "sua_senha_mestre"
+HOST = "seu_host"
+USER = "seu_user"
+PASSWORD = "sua_senha_bd"
+DATABASE = "seu_database"
