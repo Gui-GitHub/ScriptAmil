@@ -115,10 +115,10 @@ Ou, se já tiver o **executável gerado (PyInstaller)**, basta rodar o `.exe` de
 
 ## 📸 Prints da Aplicação
 
-<p align="center">
-  <img width="540" height="432" alt="print_senha_amil" src="https://github.com/user-attachments/assets/ab49a56a-75de-41a0-84c4-8d2489a8e07f" />
-  <img width="358" height="432" alt="print_editar_amil" src="https://github.com/user-attachments/assets/ffe1f3c8-ee12-4d90-b9df-3c865a22c197" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img width="45%" alt="print_senha_amil" src="https://github.com/user-attachments/assets/ab49a56a-75de-41a0-84c4-8d2489a8e07f" />
+  <img width="45%" alt="print_editar_amil" src="https://github.com/user-attachments/assets/ffe1f3c8-ee12-4d90-b9df-3c865a22c197" />
+</div>
 
 ---
 
